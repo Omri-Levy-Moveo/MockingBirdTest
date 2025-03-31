@@ -108,18 +108,6 @@
       "paramType": "body",
       "paramValue": null,
       "id": "348ba681-a3bc-4d0c-98ac-9396d5d6ed6e"
-    },
-    "87b71c73-55cc-44f4-abda-6c9ea6b427f8": {
-      "description": "",
-      "routePath": "/test",
-      "method": "get",
-      "activeResponseId": "",
-      "responsesHash": {},
-      "withParams": false,
-      "paramKey": null,
-      "paramType": "body",
-      "paramValue": null,
-      "id": "87b71c73-55cc-44f4-abda-6c9ea6b427f8"
     }
   },
   "graphQlRouteHash": {},
