@@ -1,0 +1,203 @@
+{
+  "id": "30af1efe-70e9-4797-b270-13c22e5ed28a",
+  "filename": "allocations_0ed3bcbf",
+  "path": "/allocations",
+  "routesHash": {
+    "a7a8ad88-9a4f-428c-abba-7d9fa79cfb08": {
+      "description": "Get all allocations",
+      "routePath": "/",
+      "method": "get",
+      "activeResponseId": "dae006f3-da2d-4364-b100-03ca83201118",
+      "responsesHash": {
+        "dae006f3-da2d-4364-b100-03ca83201118": {
+          "id": "dae006f3-da2d-4364-b100-03ca83201118",
+          "name": "",
+          "description": "",
+          "res": {
+            "code": 200,
+            "data": {
+              "data": [
+                {
+                  "id": "1",
+                  "title": "כנס ניו יורק",
+                  "used": 2000,
+                  "total": 5000,
+                  "daysLeft": 15,
+                  "transactions": [
+                    {
+                      "name": "טיסות ובתי מלון",
+                      "used": 1000,
+                      "total": 2000
+                    },
+                    {
+                      "name": "Per Diem",
+                      "used": 500,
+                      "total": 1000
+                    },
+                    {
+                      "name": "Foody",
+                      "used": 500,
+                      "total": 1000
+                    }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "title": "כנס ברלין",
+                  "used": 3500,
+                  "total": 6000,
+                  "daysLeft": 20
+                },
+                {
+                  "id": "3",
+                  "title": "נסיעת עבודה לונדון",
+                  "used": 4000,
+                  "total": 7000,
+                  "daysLeft": 10,
+                  "transactions": [
+                    {
+                      "name": "טיסות ולינה",
+                      "used": 2500,
+                      "total": 4000
+                    },
+                    {
+                      "name": "תחבורה",
+                      "used": 500,
+                      "total": 1000
+                    },
+                    {
+                      "name": "ארוחות",
+                      "used": 1000,
+                      "total": 2000
+                    }
+                  ]
+                },
+                {
+                  "id": "4",
+                  "title": "כנס טכנולוגי פריז",
+                  "used": 3000,
+                  "total": 5500,
+                  "daysLeft": 25,
+                  "transactions": [
+                    {
+                      "name": "טיסה ומלון",
+                      "used": 2000,
+                      "total": 3500
+                    },
+                    {
+                      "name": "כרטיסי כנס",
+                      "used": 500,
+                      "total": 1000
+                    },
+                    {
+                      "name": "הוצאות שונות",
+                      "used": 500,
+                      "total": 1000
+                    }
+                  ]
+                },
+                {
+                  "id": "5",
+                  "title": "פגישות עסקיות רומא",
+                  "used": 2500,
+                  "total": 4500,
+                  "daysLeft": 12,
+                  "transactions": [
+                    {
+                      "name": "טיסות",
+                      "used": 1200,
+                      "total": 2000
+                    },
+                    {
+                      "name": "לינה",
+                      "used": 800,
+                      "total": 1500
+                    },
+                    {
+                      "name": "ארוחות עסקיות",
+                      "used": 500,
+                      "total": 1000
+                    }
+                  ]
+                },
+                {
+                  "id": "6",
+                  "title": "סמינר מקצועי אמסטרדם",
+                  "used": 1800,
+                  "total": 4000,
+                  "daysLeft": 30,
+                  "transactions": [
+                    {
+                      "name": "טיסה והסעות",
+                      "used": 1000,
+                      "total": 2000
+                    },
+                    {
+                      "name": "מלון",
+                      "used": 500,
+                      "total": 1200
+                    },
+                    {
+                      "name": "דמי השתתפות",
+                      "used": 300,
+                      "total": 800
+                    }
+                  ]
+                },
+                {
+                  "id": "7",
+                  "title": "כנס שיווק מדריד",
+                  "used": 2800,
+                  "total": 5000,
+                  "daysLeft": 18,
+                  "transactions": [
+                    {
+                      "name": "טיסות ולינה",
+                      "used": 1800,
+                      "total": 3000
+                    },
+                    {
+                      "name": "כרטיסי כניסה",
+                      "used": 500,
+                      "total": 1000
+                    },
+                    {
+                      "name": "הוצאות נוספות",
+                      "used": 500,
+                      "total": 1000
+                    }
+                  ]
+                },
+                {
+                  "id": "8",
+                  "title": "פגישות תל אביב",
+                  "used": 1500,
+                  "total": 3000,
+                  "daysLeft": 8
+                }
+              ],
+              "status": true,
+              "message": "Success",
+              "timestamp": "2025-03-30T16:33:15.622Z"
+            },
+            "headers": {}
+          },
+          "exec": null,
+          "url": null,
+          "type": "obj",
+          "blockProxy": false
+        }
+      },
+      "withParams": false,
+      "paramKey": null,
+      "paramType": "body",
+      "paramValue": null,
+      "id": "a7a8ad88-9a4f-428c-abba-7d9fa79cfb08"
+    }
+  },
+  "graphQlRouteHash": {},
+  "type": "Rest",
+  "name": "",
+  "schemaPath": "",
+  "graphqlQueriesType": "Query"
+}

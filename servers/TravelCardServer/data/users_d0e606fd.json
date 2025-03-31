@@ -1,0 +1,11 @@
+{
+  "id": "f13542bf-1349-4a9c-a43d-cef9cb8756fd",
+  "filename": "users_d0e606fd",
+  "path": "/users",
+  "routesHash": {},
+  "graphQlRouteHash": {},
+  "type": "Rest",
+  "name": "",
+  "schemaPath": "",
+  "graphqlQueriesType": "Query"
+}
