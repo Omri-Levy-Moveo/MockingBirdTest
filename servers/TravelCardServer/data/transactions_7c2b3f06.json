@@ -1,0 +1,118 @@
+{
+  "id": "3fa2c0ff-bbcd-4bed-9932-f3e0d84f8cbc",
+  "filename": "transactions_7c2b3f06",
+  "path": "/transactions",
+  "routesHash": {
+    "348ba681-a3bc-4d0c-98ac-9396d5d6ed6e": {
+      "description": "get all transaction",
+      "routePath": "/expenses",
+      "method": "post",
+      "activeResponseId": "880fe9d3-d1fd-4070-994b-fd1619fc8f85",
+      "responsesHash": {
+        "880fe9d3-d1fd-4070-994b-fd1619fc8f85": {
+          "id": "880fe9d3-d1fd-4070-994b-fd1619fc8f85",
+          "name": "",
+          "description": "",
+          "res": {
+            "code": 200,
+            "data": {
+              "data": {
+                "httpStatus": 200,
+                "result": {
+                  "expenses": [
+                    {
+                      "actionDate": "2025-02-27T16:21:57.933Z",
+                      "allocationId": "686b9510-50ca-403a-93d7-76214325d3c1",
+                      "amount": 50,
+                      "budgetAllocationId": "f2b7fce3-bbac-4087-87af-5f757f32e7fd",
+                      "category": "Meals",
+                      "currency": "ILS",
+                      "currencySymbol": "₪",
+                      "issuerTransactionId": "673321424",
+                      "mcc": "5812",
+                      "merchantName": "513870758",
+                      "originalAmount": 50
+                    },
+                    {
+                      "actionDate": "2025-02-27T16:24:29.234Z",
+                      "allocationId": "686b9510-50ca-403a-93d7-76214325d3c1",
+                      "amount": 20,
+                      "budgetAllocationId": "f2b7fce3-bbac-4087-87af-5f757f32e7fd",
+                      "category": "Transportation",
+                      "currency": "ILS",
+                      "currencySymbol": "₪",
+                      "issuerTransactionId": "673472248",
+                      "mcc": "4789",
+                      "merchantName": "2458780/3360/5878",
+                      "originalAmount": 20
+                    },
+                    {
+                      "actionDate": "2025-03-01T12:00:00.000Z",
+                      "allocationId": "a1e2b3c4-d5f6-7890-abcd-1234567890ef",
+                      "amount": 75,
+                      "budgetAllocationId": "b1c2d3e4-f5a6-7890-bcde-234567890abc",
+                      "category": "Entertainment",
+                      "currency": "ILS",
+                      "currencySymbol": "₪",
+                      "issuerTransactionId": "673589001",
+                      "mcc": "7929",
+                      "merchantName": "CinemaCity",
+                      "originalAmount": 75
+                    },
+                    {
+                      "actionDate": "2025-03-02T15:30:00.000Z",
+                      "allocationId": "c1d2e3f4-g5h6-7890-ijkl-345678901def",
+                      "amount": 120,
+                      "budgetAllocationId": "d1e2f3g4-h5i6-7890-jklm-456789012efg",
+                      "category": "Groceries",
+                      "currency": "ILS",
+                      "currencySymbol": "₪",
+                      "issuerTransactionId": "673690112",
+                      "mcc": "5411",
+                      "merchantName": "SuperMart",
+                      "originalAmount": 120
+                    },
+                    {
+                      "actionDate": "2025-03-03T09:45:00.000Z",
+                      "allocationId": "e1f2g3h4-i5j6-7890-klmn-567890123fgh",
+                      "amount": 300,
+                      "budgetAllocationId": "f1g2h3i4-j5k6-7890-lmno-678901234ghi",
+                      "category": "Utilities",
+                      "currency": "ILS",
+                      "currencySymbol": "₪",
+                      "issuerTransactionId": "673791223",
+                      "mcc": "4900",
+                      "merchantName": "CityUtilities",
+                      "originalAmount": 300
+                    }
+                  ]
+                },
+                "sessionId": "456d75b5-d670-4951-8c01-efa5fde58ea5",
+                "statusCode": 1,
+                "statusDescription": "Success"
+              },
+              "status": true,
+              "message": "Success",
+              "timestamp": "2025-03-30T16:33:15.622Z"
+            },
+            "headers": {}
+          },
+          "exec": null,
+          "url": null,
+          "type": "obj",
+          "blockProxy": false
+        }
+      },
+      "withParams": false,
+      "paramKey": null,
+      "paramType": "body",
+      "paramValue": null,
+      "id": "348ba681-a3bc-4d0c-98ac-9396d5d6ed6e"
+    }
+  },
+  "graphQlRouteHash": {},
+  "type": "Rest",
+  "name": "",
+  "schemaPath": "",
+  "graphqlQueriesType": "Query"
+}
