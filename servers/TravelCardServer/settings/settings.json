@@ -1,5 +1,5 @@
 {
-  "proxyBaseUrl": null,
+  "proxyBaseUrl": "",
   "forceProxy": false,
   "delay": 0,
   "port": 3005,
