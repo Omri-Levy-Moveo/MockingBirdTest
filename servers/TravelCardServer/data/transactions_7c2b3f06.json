@@ -108,6 +108,30 @@
       "paramType": "body",
       "paramValue": null,
       "id": "348ba681-a3bc-4d0c-98ac-9396d5d6ed6e"
+    },
+    "82ae50fe-7836-4f87-a60e-297a8eb569a0": {
+      "description": "",
+      "routePath": "/test",
+      "method": "get",
+      "activeResponseId": "",
+      "responsesHash": {},
+      "withParams": false,
+      "paramKey": null,
+      "paramType": "body",
+      "paramValue": null,
+      "id": "82ae50fe-7836-4f87-a60e-297a8eb569a0"
+    },
+    "b2cbca71-5e1f-4b6c-91ac-7fc52eb258e3": {
+      "description": "",
+      "routePath": "/test2",
+      "method": "get",
+      "activeResponseId": "",
+      "responsesHash": {},
+      "withParams": false,
+      "paramKey": null,
+      "paramType": "body",
+      "paramValue": null,
+      "id": "b2cbca71-5e1f-4b6c-91ac-7fc52eb258e3"
     }
   },
   "graphQlRouteHash": {},
